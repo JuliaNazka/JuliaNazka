@@ -1,4 +1,4 @@
-## Olá! Eu sou Júlia Nazka - Arquiteta, Desenvolvedora e Head de Tecnologia
+## Hello! I'm Júlia Nazka - Architect, Developer, and Head of Technology
 
 <div align="center">
   <a href="https://github.com/julianazka">
