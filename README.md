@@ -9,7 +9,7 @@ Architect and BIM specialist. I build AI tools that plug into the software the c
 - **[Navis-mcp](https://github.com/JuliaNazka/Navis-mcp)**: one MCP server for Autodesk Navisworks Manage 2025/2027. Clash coordination (ranking, grouping, root causes, PDF reports, snapshots) plus general model queries, 70 tools in read-only mode. Python server, C# add-ins.
 - **[AmperoStompII-MCP](https://github.com/JuliaNazka/AmperoStompII-MCP)**: MCP servers that let Claude control a Hotone Ampero II Stomp guitar processor and an M-Vave Chocolate Plus controller over USB MIDI. SysEx protocol decoded from the official editors' traffic, LZO1X patch decompression in pure Python.
 - **BIM model review agent** (private): a Claude agent that checks Revit and Archicad models and returns a short review page with a checklist of issues.
-- **Generative AI chatbot at Grupo Flug**: built on Google Gemini with the company's own information.
+- **Generative AI chatbot**: built on Google Gemini with the company's own information.
 
 The MCP servers were built with Claude Code as a pair programmer.
 
